@@ -27,7 +27,7 @@ body {
   margin-top: 5rem;
   border: 2px;
   border-radius: 20px;
-  max-width: 32rem;
+  max-width: 28rem;
   background: var(--white);
   padding: 0 2em 2em 2em;
   text-align: center;
@@ -48,7 +48,7 @@ body {
   margin-top: 1rem;
   margin-bottom: 1rem;
   border-radius: 15px;
-  width: 25rem;
+  width: 20rem;
 }
 
 footer {
